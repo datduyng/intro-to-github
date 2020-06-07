@@ -39,3 +39,5 @@ useful bash command
 ## To host static html project on github using Github Pages
 - go to project setting
 - under GitHub Pages section > source. choose `master branch`
+
+Project link hosted using Github Page. `https://{GITHUB USERNAME}.github.io/{PROJECT NAME}/`
