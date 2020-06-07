@@ -20,3 +20,8 @@ useful bash command
 - navigate to current project folder using `cd` command. (misc cmd: `ls` list all folders and files 
 - go to GitHub. create a new repository
 - `git init` inside project to make project become a git project.
+
+
+## To make a  commit.
+
+
