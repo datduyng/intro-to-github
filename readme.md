@@ -4,7 +4,7 @@ Github: version control and source code management system.
 
 Git for window: https://git-scm.com/download/win
 
-
+sublime merge: https://www.sublimemerge.com/
 
 useful bash command
 
@@ -22,6 +22,7 @@ useful bash command
 - `git init` inside project to make project become a git project.
 
 
-## To make a  commit.
+## To make a  commit using command line.
+- run `git status`
 
 
