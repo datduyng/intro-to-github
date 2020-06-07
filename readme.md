@@ -34,3 +34,8 @@ useful bash command
 
 ## update changes from local to remote repository on github
 - `git push origin master`
+
+
+## To host static html project on github using Github Pages
+- go to project setting
+- under GitHub Pages section > source. choose `master branch`
